@@ -11,6 +11,7 @@
 		session_start();
 		include ('menu.php');
 	?>
+	<h1>HI</h1>
 </body>
 </html>
 
